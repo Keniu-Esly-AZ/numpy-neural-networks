@@ -55,3 +55,13 @@ Redes neuronales hechas con NumPy.
 ![probabilidad_de_robo](imagenes/probabilidad_de_robo_3.jpeg)
 
 ![probabilidad_de_robo](imagenes/probabilidad_de_robo_4.jpeg)
+
+### Z-score
+
+[Ver código](Z_score.py)
+
+![Resultado 1](imagenes/Z_score_1.jpeg)
+
+![Resultado 2](imagenes/Z_score_2.jpeg)
+
+![Resultado 3](imagenes/Z_score_3.jpeg)
