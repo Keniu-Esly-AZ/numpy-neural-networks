@@ -65,3 +65,17 @@ Redes neuronales hechas con NumPy.
 ![Resultado 2](imagenes/Z_score_2.jpeg)
 
 ![Resultado 3](imagenes/Z_score_3.jpeg)
+
+### Primer clasificador de texto
+
+[Ver código](Primer_clasificador_texto.py)
+
+![Resultado 1](imagenes/Primer_clasificador_texto_1.jpeg)
+
+![Resultado 2](imagenes/Primer_clasificador_texto_2.jpeg)
+
+![Resultado 3](imagenes/Primer_clasificador_texto_3.jpeg)
+
+![Resultado 4](imagenes/Primer_clasificador_texto_4.jpeg)
+
+![Resultado 5](imagenes/Primer_clasificador_texto_5.jpeg)
