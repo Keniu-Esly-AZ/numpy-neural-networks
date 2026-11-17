@@ -79,3 +79,29 @@ Redes neuronales hechas con NumPy.
 ![Resultado 4](imagenes/Primer_clasificador_texto_4.jpeg)
 
 ![Resultado 5](imagenes/Primer_clasificador_texto_5.jpeg)
+
+### Especie de pinguino
+
+[Ver código](Especie_pinguino.py)
+
+![Resultado 1](imagenes/Especie_pinguino_1.jpeg)
+
+![Resultado 2](imagenes/Especie_pinguino_2.jpeg)
+
+![Resultado 3](imagenes/Especie_pinguino_3.jpeg)
+
+![Resultado 4](imagenes/Especie_pinguino_4.jpeg)
+
+![Resultado 5](imagenes/Especie_pinguino_5.jpeg)
+
+### Clasificacion_emociones
+
+[Ver código](Clasificacion_emociones.py)
+
+![Resultado 1](imagenes/Clasificacion_emociones_1.jpeg)
+
+![Resultado 2](imagenes/Clasificacion_emociones_2.jpeg)
+
+![Resultado 3](imagenes/Clasificacion_emociones_3.jpeg)
+
+![Resultado 4](imagenes/Clasificacion_emociones_4.jpeg)
